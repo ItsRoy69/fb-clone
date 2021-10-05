@@ -1,5 +1,5 @@
 # Fb-Clone
-Facebook Clone using  ReactJs, React Hooks, React Context API, MaterialUI, Firebase Hosting, Firebase Google Authentication, Firebase's firestore realtime DB. Many changes are required.
+Facebook Clone using  ReactJs, React Hooks, React Context API, MaterialUI, Firebase Hosting, Firebase Google Authentication, Firebase's firestore realtime DB. Many changes are required like responsiveness,UI Layout,etc.
 
 
 Deployed website Link - https://facebook-clone-617ea.web.app/
